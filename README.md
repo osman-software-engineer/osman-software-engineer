@@ -4,8 +4,7 @@
 # 💻 Tech Stack:
 ![JAVA](https://img.shields.io/badge/java-%236DB33F.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%236DB33F.svg?style=for-the-badge&logo=sql&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Postgres](https://img.shields.io/badge/Postgres-%236DB33F.svg?style=for-the-badge&logo=Postgres&logoColor=white) 
+![System Design](https://img.shields.io/badge/System%20Design-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 
 # 💻 Portfolio:
 [![JAVA](https://img.shields.io/badge/java%20projects-%236DB33F.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/stars/osmanacademy/lists/portfolio-sql)
