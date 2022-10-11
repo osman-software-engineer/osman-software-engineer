@@ -7,6 +7,10 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/Postgres-%236DB33F.svg?style=for-the-badge&logo=Postgres&logoColor=white) 
 
+# 💻 Portfolio:
+[![JAVA](https://img.shields.io/badge/java%20projects-%236DB33F.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/stars/osmanacademy/lists/portfolio-sql)
+![SQL Projects ](https://img.shields.io/badge/sql-%236DB33F.svg?style=for-the-badge&logo=sql&logoColor=white)
+
 
 # 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osman-mohammed-434661108) 
