@@ -6,7 +6,7 @@
 ![SQL](https://img.shields.io/badge/sql-%236DB33F.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![System Design](https://img.shields.io/badge/System%20Design-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 
-# 💻 Portfolio:
+# ⚙️ Portfolio:
 [![JAVA](https://img.shields.io/badge/java%20projects-%236DB33F.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/stars/osmanacademy/lists/portfolio-java)
 [![SQL](https://img.shields.io/badge/sql%20projects-%236DB33F.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/stars/osmanacademy/lists/portfolio-sql)
 [![System Design](https://img.shields.io/badge/system%20design%20projects-%236DB33F.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/stars/osmanacademy/lists/portfolio-system-design)
