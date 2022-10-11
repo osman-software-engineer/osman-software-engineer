@@ -8,7 +8,7 @@
 
 # 💻 Portfolio:
 [![JAVA](https://img.shields.io/badge/java%20projects-%236DB33F.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/stars/osmanacademy/lists/portfolio-java)
-
+[![SQL](https://img.shields.io/badge/sql%20projects-%236DB33F.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/stars/osmanacademy/lists/portfolio-sql)
 
 # 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osman-mohammed-434661108) 
